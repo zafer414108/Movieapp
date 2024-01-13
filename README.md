@@ -28,4 +28,4 @@ To run the project locally, follow the steps below.
 ## Screen gif
 
 ![](screen.gif)
-# Movieapp
+
