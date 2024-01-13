@@ -25,7 +25,7 @@ To run the project locally, follow the steps below.
 - - pod-install ios
 - - yarn or npm run ios
 
-## `Screen`
+## Screen gif
 
 ![](screen.gif)
 # Movieapp
